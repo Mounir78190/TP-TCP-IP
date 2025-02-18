@@ -45,12 +45,18 @@ This lab focuses on the practical understanding of TCP/IP and UDP protocols in m
 
 * Server IP Addressing:
     * AD-SRV: IPv4: 192.168.1.10, Mask: 255.255.255.0, Gateway: 192.168.1.1, DNS: 8.8.8.8
+  ![image Ip-AD-SRV.](https://imgur.com/ufY8shn.png)
+  ![image Ip-AD-SRV.](https://imgur.com/ZGaGjZJ.png)
   ![image Ip-AD-SRV.](https://imgur.com/Ots3yrw.png)
 
     * TECH-SRV: IPv4: 192.168.2.10, Mask: 255.255.255.0, Gateway: 192.168.2.1, DNS: 8.8.8.8
+  ![image Ip-TECH-SRV.](https://imgur.com/xf3el2f.png)
+  ![image Ip-TECH-SRV.](https://imgur.com/lrQeVhR.png)
   ![image Ip-TECH-SRV.](https://imgur.com/pmkclIC.png)
 
     * COMM-SRV: IPv4: 192.168.3.10, Mask: 255.255.255.0, Gateway: 192.168.3.1, DNS: 8.8.8.8
+  ![image Ip-COMM-SRV.](https://imgur.com/3eXDDzX.png)
+  ![image Ip-COMM-SRV.](https://imgur.com/DpXH5Pw.png)
   ![image Ip-COMM-SRV.](https://imgur.com/1jYf489.png)
 
 4. Creating Three Client PCs for Each Subnet with Proper Addressing
